@@ -1,0 +1,12 @@
+streamlit
+pandas
+google-generativeai
+langchain
+langchain-google-genai
+chromadb
+python-magic
+openpyxl
+PyPDF2
+langchain_community
+tiktoken
+streamlit_pdf_viewer
